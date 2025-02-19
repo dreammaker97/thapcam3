@@ -5,9 +5,9 @@
   "description": "Thapcamtv",
   "packageType": "",
   "websiteURL": "https://www.spacesport.xyz/tabs/home",
-  "main": "",
+  "main": "dist/userScript.js",
   "author": "Reis Can",
-  "serviceFile": "",
+  "serviceFile": "dist/service.js",
   "keys": [
     "MediaPlayPause",
     "MediaPlay",
