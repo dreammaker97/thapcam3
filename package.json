@@ -3,7 +3,7 @@
   "appName": "Thapcamtv",
   "version": "1.0.0",
   "description": "Thapcamtv",
-  "packageType": "",
+  "packageType": "mods",
   "websiteURL": "https://www.spacesport.xyz/tabs/home",
   "main": "dist/userScript.js",
   "author": "Reis Can",
